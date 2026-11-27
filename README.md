@@ -89,7 +89,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=footer&animation=twinkling" width="100%"/>
 
-
+<p align="center">
+  <img src="assets/certifications.svg" width="100%" alt="Certifications"/>
+</p>
 
 ## 📊 GitHub, Live
 
