@@ -89,18 +89,39 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=footer&animation=twinkling" width="100%"/>
 
-## 🏅 Certifications
 
-| 🏆 Certification | 📅 When |
-|---|---|
-| AWS Certified Solutions Architect – Associate | May 2026 |
-| AWS Certified Cloud Practitioner | May 2026 |
-| Cisco CCNA – Networking, Routing, Switching & Security | May – Jun 2026 |
-| AMD AI Academy Certification (Hackingly) | 2026 |
-| Palo Alto Networks – Cybersecurity Foundation | Jun 2025 |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=90&section=header&text=CERTIFICATIONS&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="100%"/>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=4ADE80&center=true&vCenter=true&width=560&height=40&lines=5+certifications+%E2%9C%94;AWS+Solutions+Architect+%E2%80%A2+Cloud+Practitioner;Cisco+CCNA+%E2%80%A2+AMD+AI+Academy;Palo+Alto+Cybersecurity+Foundation"/>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E"/>
+  <img src="https://img.shields.io/badge/ISSUED-May_2026-4ADE80?style=for-the-badge&labelColor=111111"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E"/>
+  <img src="https://img.shields.io/badge/ISSUED-May_2026-4ADE80?style=for-the-badge&labelColor=111111"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CISCO-CCNA_Routing,_Switching_%26_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0B3C5D"/>
+  <img src="https://img.shields.io/badge/ISSUED-May_%E2%80%93_Jun_2026-4ADE80?style=for-the-badge&labelColor=111111"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AMD-AI_Academy_(Hackingly)-ED1C24?style=for-the-badge&logo=amd&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/ISSUED-2026-4ADE80?style=for-the-badge&labelColor=111111"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PALO_ALTO-Cybersecurity_Foundation-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/ISSUED-Jun_2025-4ADE80?style=for-the-badge&labelColor=111111"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=70&section=footer&animation=twinkling" width="100%"/>
 ## 📊 GitHub, Live
 
 <p align="center">
