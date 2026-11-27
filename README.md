@@ -80,6 +80,47 @@
   <img src="https://img.shields.io/badge/Operating_Systems-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/Computer_Networks-111111?style=flat-square"/>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=90&section=header&text=TOOLBOX&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&width=520&height=40&lines=Languages;Java+%C2%B7+Python+%C2%B7+JavaScript"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&height=40&lines=Frontend;React+%C2%B7+Redux+Toolkit+%C2%B7+HTML+%C2%B7+CSS"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,redux,html,css&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=520&height=40&lines=Backend;Node+%C2%B7+Express+%C2%B7+Flask;REST+%C2%B7+JWT+%C2%B7+OAuth+%C2%B7+RBAC"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=F87171&center=true&vCenter=true&width=520&height=40&lines=Data+%26+Queues;MongoDB+%C2%B7+Redis;BullMQ+%C2%B7+WebSockets"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&height=40&lines=Cloud+%26+DevOps;AWS+%C2%B7+Docker+%C2%B7+Kubernetes;Jenkins+%C2%B7+GitHub+Actions+%C2%B7+Linux"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,linux,git&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=520&height=40&lines=AI+%2F+ML;YOLOv11+%C2%B7+Segment+Anything+(SAM)"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=F472B6&center=true&vCenter=true&width=520&height=40&lines=Core+CS;DSA+%C2%B7+OOP+%C2%B7+DBMS;Operating+Systems+%C2%B7+Computer+Networks"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=footer&animation=twinkling" width="100%"/>
 
 ## 🏅 Certifications
 
