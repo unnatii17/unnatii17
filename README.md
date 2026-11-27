@@ -39,8 +39,6 @@
 
 <br>
 
-<h2 align="center">🧰 Toolbox</h2>
-
 <p align="center"><img src="https://img.shields.io/badge/CORE_CS-F472B6?style=for-the-badge&labelColor=111111"/></p>
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-111111?style=flat-square"/>
