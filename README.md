@@ -27,46 +27,15 @@
 
 ## 🧪 Projects I've Shipped
 
-<details open>
-<summary><b>🦷 Dental X-ray Disease Detection</b> &nbsp;•&nbsp; <a href="https://dent-sam-two.vercel.app/">Live Site ↗</a> &nbsp;•&nbsp; <i>Jan 2026 – Aug 2026</i></summary>
-<br>
-
-AI platform that analyses dental X-rays in real time and localises diseased regions.
-
-- 🧠 **YOLOv11 + SAM** served through Flask inference microservices exposing REST APIs
-- 🖥️ React clinical dashboard: review predictions, annotate X-rays, export diagnostic reports
-- 🔐 JWT + Google OAuth, Cloudinary storage, MongoDB for patient-related records
-- 🚢 Containerised with Docker and Kubernetes
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Flask` `Docker` `Kubernetes` `YOLOv11` `SAM`
-</details>
-
-<details open>
-<summary><b>🤫 WhisperPulse</b> &nbsp;•&nbsp; <a href="https://whisper-pulse-seven.vercel.app/">Live Site ↗</a> &nbsp;•&nbsp; <i>Jun 2026 – Aug 2026</i></summary>
-<br>
-
-Anonymous college confession platform: confessions, comments and reactions without revealing who you are.
-
-- 🔐 JWT auth with OTP email verification
-- 🔔 Firebase push notifications, Cloudinary uploads
-- ⚡ Redis caching for a responsive feed
-- 🐳 Docker containers across 2 environments (development and production)
-
-`React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `Redis` `Firebase` `Cloudinary` `Docker`
-</details>
-
-<details open>
-<summary><b>⚙️ FlowForge — Visual DevOps Automation</b> &nbsp;•&nbsp; <i>Dec 2025 – Feb 2026</i></summary>
-<br>
-
-Drag-and-drop platform to design and run custom DevOps workflows.
-
-- 🧩 Execution engine on **Redis + BullMQ**: background jobs, conditional logic, automatic retries, real-time monitoring
-- 🔁 Docker-based CI/CD with **GitHub Actions**, environment config and drift detection across Dev, Staging and Production
-- 📡 Live updates over WebSockets
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Redis` `BullMQ` `Docker` `GitHub Actions` `WebSockets`
-</details>
+<p align="center">
+  <a href="https://dent-sam-two.vercel.app/"><img src="assets/project-dentsam.svg" width="100%" alt="Dental X-ray Disease Detection"/></a>
+</p>
+<p align="center">
+  <a href="https://whisper-pulse-seven.vercel.app/"><img src="assets/project-whisperpulse.svg" width="100%" alt="WhisperPulse"/></a>
+</p>
+<p align="center">
+  <img src="assets/project-flowforge.svg" width="100%" alt="FlowForge"/>
+</p>
 
 <br>
 
