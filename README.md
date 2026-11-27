@@ -12,18 +12,9 @@
   <img src="assets/terminal.svg" width="100%" alt="terminal intro"/>
 </p>
 
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="25%"><h1>90%+</h1><sub>detection accuracy<br>on dental X-rays</sub></td>
-<td align="center" width="25%"><h1>5+</h1><sub>dental disease<br>categories detected</sub></td>
-<td align="center" width="25%"><h1>3</h1><sub>environments automated<br>Dev • Staging • Prod</sub></td>
-<td align="center" width="25%"><h1>5</h1><sub>certifications<br>AWS • Cisco • AMD • Palo Alto</sub></td>
-</tr>
-</table>
-
-<br>
+<p align="center">
+  <img src="assets/stats.svg" width="100%" alt="Stats"/>
+</p>
 
 ## 🧪 Projects I've Shipped
 
