@@ -39,19 +39,47 @@
 
 <br>
 
-## 🧰 Toolbox
+<h2 align="center">🧰 Toolbox</h2>
 
-<table>
-<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark"/></td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,redux,html,css&theme=dark"/></td></tr>
-<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark"/> &nbsp;<sub>REST • JWT • OAuth • RBAC</sub></td></tr>
-<tr><td><b>Data & Queues</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark"/> &nbsp;<sub>BullMQ • WebSockets</sub></td></tr>
-<tr><td><b>Cloud & DevOps</b></td><td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,linux,git&theme=dark"/></td></tr>
-<tr><td><b>AI / ML</b></td><td><sub>YOLOv11 • Segment Anything Model (SAM)</sub></td></tr>
-<tr><td><b>Core CS</b></td><td><sub>DSA • OOP • DBMS • Operating Systems • Computer Networks</sub></td></tr>
-</table>
+<p align="center"><img src="https://img.shields.io/badge/LANGUAGES-FBBF24?style=for-the-badge&labelColor=111111"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=java,python,js&theme=dark"/></p>
 
-<br>
+<p align="center"><img src="https://img.shields.io/badge/FRONTEND-22D3EE?style=for-the-badge&labelColor=111111"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,redux,html,css&theme=dark"/></p>
+
+<p align="center"><img src="https://img.shields.io/badge/BACKEND-4ADE80?style=for-the-badge&labelColor=111111"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark"/></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-111111?style=flat-square&logo=fastapi&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/JWT-111111?style=flat-square&logo=jsonwebtokens&logoColor=D63AFF"/>
+  <img src="https://img.shields.io/badge/Google_OAuth-111111?style=flat-square&logo=google&logoColor=4285F4"/>
+  <img src="https://img.shields.io/badge/RBAC-111111?style=flat-square&logo=auth0&logoColor=FF9900"/>
+</p>
+
+<p align="center"><img src="https://img.shields.io/badge/DATA_%26_QUEUES-F87171?style=for-the-badge&labelColor=111111"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark"/></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/BullMQ-111111?style=flat-square&logoColor=F43F5E"/>
+  <img src="https://img.shields.io/badge/WebSockets-111111?style=flat-square&logoColor=22D3EE"/>
+</p>
+
+<p align="center"><img src="https://img.shields.io/badge/CLOUD_%26_DEVOPS-38BDF8?style=for-the-badge&labelColor=111111"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,linux,git&theme=dark"/></p>
+
+<p align="center"><img src="https://img.shields.io/badge/AI_%2F_ML-C084FC?style=for-the-badge&labelColor=111111"/></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLOv11-111111?style=for-the-badge&logo=yolo&logoColor=C084FC"/>
+  <img src="https://img.shields.io/badge/Segment_Anything_(SAM)-111111?style=for-the-badge&logo=meta&logoColor=38BDF8"/>
+</p>
+
+<p align="center"><img src="https://img.shields.io/badge/CORE_CS-F472B6?style=for-the-badge&labelColor=111111"/></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OOP-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DBMS-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Computer_Networks-111111?style=flat-square"/>
+</p>
 
 ## 🏅 Certifications
 
